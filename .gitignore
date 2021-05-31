@@ -1,0 +1,6 @@
+node_modules
+ts-built
+*.env
+!example.env
+checkin.txt
+token.txt
